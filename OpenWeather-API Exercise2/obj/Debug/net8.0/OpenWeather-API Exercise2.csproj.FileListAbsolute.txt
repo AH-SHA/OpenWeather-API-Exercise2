@@ -1,0 +1,32 @@
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\appsettings.json
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.exe
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.dll.config
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.deps.json
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.runtimeconfig.json
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\OpenWeather-API Exercise2.pdb
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.csproj.AssemblyReference.cache
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.AssemblyInfoInputs.cache
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.AssemblyInfo.cs
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.sourcelink.json
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeat.40676EE2.Up2Date
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\refint\OpenWeather-API Exercise2.dll
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.pdb
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\OpenWeather-API Exercise2.genruntimeconfig.cache
+C:\Users\compm\repos\OpenWeather-API Exercise2\obj\Debug\net8.0\ref\OpenWeather-API Exercise2.dll
