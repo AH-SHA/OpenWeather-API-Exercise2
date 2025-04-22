@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenWeather-API Exercise2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1fc3850cc7572436df5fa4cb1879d8414c94b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80111dd1149c73d0ec6d40f5c1633b5514853d51")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenWeather-API Exercise2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenWeather-API Exercise2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
